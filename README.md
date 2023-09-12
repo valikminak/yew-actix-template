@@ -1,7 +1,5 @@
 # Docker + Actix + Yew Full Stack Template
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/oCiGjrpGk4A/maxresdefault.jpg)](https://youtu.be/oCiGjrpGk4A "YouTube video")
-
 
 ## 👨‍💻 YouTube videos
 1. Full Stack Rust App Template using Yew + Actix! https://youtu.be/oCiGjrpGk4A
@@ -10,9 +8,6 @@
 4. I added a Database To Our YEW ACTIX Template To Store Users And OAuth Tokens.
  https://youtu.be/ENgMHIQk7T8
  
-## 👉 Join our Discord Community
-You can join our Discord Community, here is the [invite link](https://discord.gg/JP38NRe4CJ).
-
 ## 👨‍💻 Project Structure
 
 Contains 3 sub-projects
